@@ -36,11 +36,13 @@ wget -q -O light.sh https://raw.githubusercontent.com/BidyutRoy2/celestia-light-
 ```
 
 ## Copy and Save Your Celestia Wallet Mnemonics Seed Phrase in NotePad
-## To view the logs, use:
+
+## To view the logs Command
 ```
 screen -r celestia-node
 ```
-Restart Node
+
+## Restart Node Command (If WSL/VPS Shutdown)
 ```
 celestia light init --p2p.network celestia
 ```
