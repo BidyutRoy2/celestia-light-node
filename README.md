@@ -14,10 +14,12 @@ Celestia is a modular data availability network that securely scales with the nu
 
 ## System Requirements
 
-- Memory: 500 MB RAM (minimum)
-- CPU: Single Core
-- Disk: 100 GB SSD Storage
-- Bandwidth: 56 Kbps for Download/56 Kbps for Upload
+|                |       Minimum            |       Recommended            |
+|----------------|--------------------------|------------------------------|
+| **RAM**        | 500 MB RAM               | 4 GB+ RAM                    |
+| **CPU Cores**  | 1 CPU cores              | 4+ CPU cores                 |
+| **Disk Space** | 20 GB SSD                | 100 GB SSD                   |
+| **Operating System** | Ubuntu 22.04       | Ubuntu 22.04                 |
 
 Note: The script only works on Ubuntu (20.04/22.04). 
 
