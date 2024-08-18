@@ -35,6 +35,20 @@ To use this script, run the following command in your terminal:
 wget -q -O light.sh https://raw.githubusercontent.com/BidyutRoy2/celestia-light-node/main/light.sh && sudo chmod +x light.sh && ./light.sh
 ```
 
+## Copy and Save Your Celestia Wallet Mnemonics Seed Phrase in NotePad
+## To view the logs, use:
+```
+screen -r celestia-node
+```
+Restart Node
+```
+celestia light init --p2p.network celestia
+```
+
 Note: You can exit the screen with `CTRL A + D`. When you exit in this way, your node will continue to work on the screen. 
 
-### LM🦥
+
+# ▄︻デ𝙂𝙚𝙩 𝙇𝙖𝙩𝙚𝙨𝙩 𝘼𝙞𝙧𝙙𝙧𝙤𝙥𝙨 & 𝙐𝙥𝙙𝙖𝙩𝙚𝙨═━一
+
+### ▄︻デ𝙅𝙤𝙞𝙣 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢═━一 [🎀  𝐻𝒾𝒹𝒹𝑒𝓃 𝒢𝑒𝓂  🎀](https://t.me/hiddengemnews) 
+
