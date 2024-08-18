@@ -350,6 +350,14 @@ clear
 
 echo -e "${GREEN}
 
+  ##   ##   ######  #####    #####    #######  ##    ## 
+  ##   ##     ##    ##  ##   ##  ##   ##       ###   ## 
+  ##   ##     ##    ##   ##  ##   ##  ##       ## #  ## 
+  #######     ##    ##   ##  ##   ##  #####    ##  # ## 
+  ##   ##     ##    ##   ##  ##   ##  ##       ##   ### 
+  ##   ##     ##    ##  ##   ##  ##   ##       ##    ## 
+  ##   ##   ######  #####    #####    #######  ##    ##⠀⠀
+
          #####     #######  ##     ## 
         ##   ##    ##       ###   ### 
         ##         ##       ## # # ##   
@@ -365,23 +373,23 @@ ${NORMAL}" | tee -a "$LOGFILE"
 if [ "$lang" == "EN" ];then
     echo -e "${GREEN}${BOLD}${ITALIC}Welcome to the one-command script for Celestia Light Node!${NORMAL}"
     echo -e ""
-    echo -e "${GREEN}${BOLD}${ITALIC}This script was made with love by ${BOLD}@kkocality <3${NORMAL}"
-    echo -e "${GREEN}${BOLD}${ITALIC}For more: kocality.com${NORMAL}"
+    echo -e "${GREEN}${BOLD}${ITALIC}This script was made with love by ${BOLD}Hidden-Gem <3${NORMAL}"
+    echo -e "${GREEN}${BOLD}${ITALIC}For more: Hidden-Gem${NORMAL}"
 elif [ "$lang" == "TR" ];then
-    echo -e "${GREEN}${BOLD}${ITALIC}Celestia Light Node için tek komutluk script'e hoş geldiniz!${NORMAL}"
+    echo -e "${GREEN}${BOLD}${ITALIC}Celestia Light Node için tek komutluk script'e Hidden-Gem!${NORMAL}"
     echo -e ""
-    echo -e "${GREEN}${BOLD}${ITALIC}Bu script @kkocality tarafından sevgiyle yapıldı <3${NORMAL}"
-    echo -e "${GREEN}${BOLD}${ITALIC}Daha fazlası için: kocality.com${NORMAL}"
+    echo -e "${GREEN}${BOLD}${ITALIC}Bu script Hidden-Gem <3${NORMAL}"
+    echo -e "${GREEN}${BOLD}${ITALIC}Hidden-Gem${NORMAL}"
 elif [ "$lang" == "CN" ];then
     echo -e "${GREEN}${BOLD}${ITALIC}欢迎使用Celestia轻节点的一键脚本！${NORMAL}"
     echo -e ""
-    echo -e "${GREEN}${BOLD}${ITALIC}这个脚本由@kkocality用爱制作 <3${NORMAL}"
-    echo -e "${GREEN}${BOLD}${ITALIC}更多信息请访问: kocality.com${NORMAL}"
+    echo -e "${GREEN}${BOLD}${ITALIC}这个脚本由Hidden-Gem用爱制作 <3${NORMAL}"
+    echo -e "${GREEN}${BOLD}${ITALIC}更多信息请访问: Hidden-Gem${NORMAL}"
 elif [ "$lang" == "FR" ];then
     echo -e "${GREEN}${BOLD}${ITALIC}Bienvenue dans le script en une commande pour Celestia Light Node !${NORMAL}"
     echo -e ""
-    echo -e "${GREEN}${BOLD}${ITALIC}Ce script a été fait avec amour par ${BOLD}@kkocality <3${NORMAL}"
-    echo -e "${GREEN}${BOLD}${ITALIC}Pour plus d'informations: kocality.com${NORMAL}"
+    echo -e "${GREEN}${BOLD}${ITALIC}Ce script a été fait avec amour par ${BOLD}Hidden-Gem <3${NORMAL}"
+    echo -e "${GREEN}${BOLD}${ITALIC}Pour plus d'informations: Hidden-Gem${NORMAL}"
 fi
 
 log_message "Script started."
